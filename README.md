@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/paramjyoti-padhiary-583018419">
+<a href="https://www.linkedin.com/in/dibyajyoti-padhiary-96840a367?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
