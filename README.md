@@ -1,16 +1,14 @@
-<div align="center">
-
-# <span style="color:#ff2d2d;">Dibyajyoti Padhiary</span>
-
-### Software Engineer | Full-Stack Developer | Python Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF2D2D&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Web+Developer;Python+Developer;Open+Source+Learner;Always+Building+New+Projects" />
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20&text=Dibyajyoti%20Padhiary&fontSize=55&fontColor=ffffff&animation=fadeIn" />
 
 </div>
+
+---
+
+# About Me
+
+I'm a Computer Science student passionate about Software Engineering, Full-Stack Web Development, and Python.
+
+I enjoy building scalable applications, solving real-world problems, learning modern technologies, and continuously improving my development skills through hands-on projects.
 
 ---
 
@@ -42,13 +40,7 @@
 
 ---
 
-# About Me
 
-I'm a Computer Science student passionate about Software Engineering, Full-Stack Web Development, and Python.
-
-I enjoy building scalable applications, solving real-world problems, learning modern technologies, and continuously improving my development skills through hands-on projects.
-
----
 
 # Tech Stack
 
