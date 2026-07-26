@@ -52,17 +52,6 @@ I enjoy building scalable applications, solving real-world problems, learning mo
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dibyajyotipadhiary-ai&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyajyotipadhiary-ai&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
----
 
 # GitHub Streak
 
