@@ -1,112 +1,398 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=14,20&text=Dibyajyoti%20Padhiary&fontSize=65&fontColor=ffffff&animation=fadeIn" />
+# Build a Premium Futuristic Developer Portfolio Website
 
-</div>
+Create a premium, modern, futuristic portfolio website inspired by GitHub, Cyberpunk, and developer dashboards.
 
----
+The website must be fully responsive, animated, dark-themed, and look like a premium software engineer portfolio.
 
-## About Me
+--------------------------------------------------
 
-Computer Science student passionate about Software Engineering, Full-Stack Development, and Python. I enjoy building real-world projects, writing clean code, and continuously learning modern technologies. Currently seeking internship opportunities to grow and contribute to impactful software solutions.
+# Personal Information
 
----
+Name:
+Dibyajyoti Padhiary
 
-# Connect With Me
+Role:
+AI & Full Stack Developer
 
-<p align="center">
+Headline:
+Building Intelligent Software, AI Applications & Modern Web Experiences.
 
-<a href="https://github.com/dibyajyotipadhiary-ai">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+College:
+ITER, Siksha 'O' Anusandhan University (2024–2028)
 
-<a href="https://www.linkedin.com/in/dibyajyoti-padhiary-96840a367">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+Location:
+Odisha, India
 
-<a href="https://www.instagram.com/dibya.padhiary">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
+Email:
+(Add email placeholder)
 
-<a href="mailto:dibyajyotipadhiary@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+GitHub:
+https://github.com/dibyajyotipadhiary-ai
 
-<a href="https://wa.me/917735382101">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
-</a>
+LinkedIn:
+https://www.linkedin.com/in/dibyajyoti-padhiary-96840a367
 
-</p>
+Resume Button:
+Download Resume
 
----
+--------------------------------------------------
 
+# Hero Section
 
+Large profile picture on the left.
+
+On the right display
+
+Hi, I'm
+Dibyajyoti Padhiary
+
+AI & Full Stack Developer
+
+Typing animation
+
+Software Engineer
+Machine Learning Enthusiast
+Open Source Contributor
+Problem Solver
+
+Animated glowing background.
+
+--------------------------------------------------
+
+# Sidebar
+
+Profile Image
+
+Name
+
+Current Status
+
+Available for Internship
+
+Education
+
+Location
+
+Email
+
+Social Icons
+
+GitHub
+
+LinkedIn
+
+Instagram
+
+Achievements Badge
+
+Deloitte
+
+JPMorgan Chase
+
+Tata Group
+
+Forage
+
+--------------------------------------------------
+
+# About Me
+
+Write professionally
+
+"I am a passionate AI & Full Stack Developer with a strong interest in building intelligent applications, scalable web platforms, and impactful software solutions. I enjoy solving real-world problems through technology and continuously expanding my expertise in software development, artificial intelligence, and cloud computing."
+
+--------------------------------------------------
+
+# My Projects
+
+Project Card 1
+
+E-Commerce Website
+
+React
+
+Node.js
+
+MongoDB
+
+JWT Authentication
+
+Responsive UI
+
+GitHub Button
+
+Live Demo Button
+
+Project Card 2
+
+AI Productivity Dashboard
+
+React
+
+Firebase
+
+Charts
+
+Authentication
+
+Dark Theme
+
+Project Card 3
+
+Weather Dashboard
+
+HTML
+
+CSS
+
+JavaScript
+
+API Integration
+
+Project Card 4
+
+Customer Analysis
+
+Python
+
+Pandas
+
+Matplotlib
+
+Machine Learning
+
+Project Card 5
+
+Portfolio Website
+
+Next.js
+
+Tailwind CSS
+
+Animations
+
+Responsive
+
+--------------------------------------------------
 
 # Tech Stack
 
-<p align="center">
+Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,mysql" />
+HTML5
 
-</p>
+CSS3
 
----
+JavaScript
 
+TypeScript
 
-# GitHub Streak
+React
 
-<p align="center">
+Next.js
 
-<img src="https://streak-stats.demolab.com?user=dibyajyotipadhiary-ai&theme=radical&hide_border=true"/>
+Tailwind CSS
 
-</p>
+Backend
 
----
+Node.js
 
-# Contribution Graph
+Express
 
-<p align="center">
+Python
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dibyajyotipadhiary-ai&theme=radical"/>
+Java
 
-</p>
+MySQL
 
----
+MongoDB
 
-# Featured Projects
+Firebase
 
-### 🛒 TechStore – E-Commerce Product Catalog
-Responsive E-Commerce website with shopping cart, search, responsive UI, and Local Storage.
+Tools
 
-### 🌦 Weather Dashboard
-Real-time weather application using JavaScript APIs.
+Git
 
-### 📊 Customer Analysis Dashboard
-Python project using Pandas and Matplotlib for customer insights.
+GitHub
 
-### 💼 Personal Portfolio
-Responsive portfolio showcasing projects and skills.
+VS Code
 
----
+Postman
 
-# Currently Learning
+Figma
 
-- Advanced JavaScript
-- React
-- Backend Development
-- Data Structures & Algorithms
-- System Design
+Docker
 
----
+--------------------------------------------------
 
-<p align="center">
+# GitHub Analytics
 
-![](https://komarev.com/ghpvc/?username=dibyajyotipadhiary-ai&color=red&style=for-the-badge)
+GitHub Stats Card
 
-</p>
+Contribution Graph
 
----
+Top Languages
 
-<div align="center">
+Commit Activity
 
-## Building scalable software, one project at a time.
+Coding Time
 
-</div>
+Repositories
+
+Followers
+
+Following
+
+--------------------------------------------------
+
+# Skills
+
+Frontend
+
+95%
+
+Backend
+
+90%
+
+Java
+
+88%
+
+Python
+
+92%
+
+AI
+
+85%
+
+Machine Learning
+
+80%
+
+Database
+
+88%
+
+Problem Solving
+
+95%
+
+--------------------------------------------------
+
+# Certifications
+
+Deloitte Technology Job Simulation
+
+JPMorgan Software Engineering Job Simulation
+
+Tata Cybersecurity Job Simulation
+
+Forage Virtual Experience
+
+--------------------------------------------------
+
+# Experience Timeline
+
+2024
+
+Started B.Tech at ITER SOA
+
+2025
+
+Built Full Stack Projects
+
+Completed Deloitte Simulation
+
+Completed JPMorgan Simulation
+
+Completed Tata Simulation
+
+2026
+
+AI Projects
+
+Internship Experience
+
+Open Source Contributions
+
+--------------------------------------------------
+
+# Contact Section
+
+Let's Build Something Amazing Together.
+
+Email Button
+
+LinkedIn Button
+
+GitHub Button
+
+Resume Button
+
+--------------------------------------------------
+
+# Footer
+
+Designed & Developed by
+
+Dibyajyoti Padhiary
+
+© 2026 All Rights Reserved.
+
+--------------------------------------------------
+
+# UI Design
+
+Dark Theme
+
+Black Background
+
+Blue Neon Glow
+
+Glassmorphism
+
+Rounded Cards
+
+Animated Hover Effects
+
+Smooth Scroll
+
+Parallax Sections
+
+Typing Animation
+
+Mouse Glow
+
+Particles Background
+
+Gradient Borders
+
+--------------------------------------------------
+
+# Tech Stack
+
+Next.js
+
+React
+
+Tailwind CSS
+
+Framer Motion
+
+TypeScript
+
+Lucide Icons
+
+GSAP
+
+Chart.js
+
+GitHub Readme Stats API
+
+Vercel Deployment
+
+--------------------------------------------------
+
+Make the UI look premium like Apple, GitHub, Vercel, and Cyberpunk dashboards. Use high-quality animations, smooth transitions, responsive layouts, and clean typography. Optimize for performance and SEO, with a professional appearance that stands out to recruiters.
