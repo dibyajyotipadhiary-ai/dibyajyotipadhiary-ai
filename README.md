@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Hey, I'm Dibyajyoti Padhiary
+# Hi, I'm Dibyajyoti Padhiary
 
-### Software Engineer | Python Developer | Web Developer | AI & Machine Learning Enthusiast
+### Software Engineering Student | Python Developer | Front-End Developer | AI & Web Development Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FF0000&center=true&vCenter=true&width=800&lines=Building+Scalable+Applications;Passionate+Python+Developer;Full+Stack+Web+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;Python+%7C+JavaScript+%7C+AI;Always+Learning+Something+New;Future+Software+Engineer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,FF0000,000000&height=220&section=header&text=DIBYAJYOTI%20PADHIARY&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
@@ -12,100 +14,63 @@
 
 # About Me
 
-- Software Engineering Student
-- Passionate about Python, AI and Full Stack Development
-- Currently building real-world projects
-- Exploring Cloud Computing and Machine Learning
-- Always learning new technologies
+- Software Engineering Student at ITER, Siksha 'O' Anusandhan
+- Passionate about Python, Web Development and AI
+- Building projects that solve real-world problems
+- Interested in Software Development and Full Stack Engineering
+- Currently improving Data Structures, JavaScript and Backend Development
 
 ---
 
 # Tech Stack
 
-<p align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,react,nodejs,mysql,git,github,vscode,c,cpp" />
+![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=red)
+![JavaScript](https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=red)
+![CSS3](https://img.shields.io/badge/CSS3-red?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=red)
 
-</p>
+---
+
+# Tools
+
+VS Code • Git • GitHub • Eclipse • MySQL • Canva
 
 ---
 
 # GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=dibyajyotipadhiary-ai&show_icons=true&theme=radical)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dibyajyotipadhiary-ai&show_icons=true&theme=radical"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dibyajyotipadhiary-ai&theme=radical)
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyajyotipadhiary-ai&theme=radical"/>
-
-</p>
-
----
-
-# Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyajyotipadhiary-ai&layout=compact&theme=radical"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dibyajyotipadhiary-ai&theme=radical&row=1&column=6"/>
-
-</p>
-
----
-
-# Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dibyajyotipadhiary-ai&theme=react-dark"/>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyajyotipadhiary-ai&layout=compact&theme=radical)
 
 ---
 
 # Connect With Me
 
-<p align="center">
+### GitHub
 
-<a href="https://github.com/dibyajyotipadhiary-ai">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
+https://github.com/dibyajyotipadhiary-ai
 
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
-</a>
+### LinkedIn
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
+https://linkedin.com/in/dibyajyotipadhiary
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
-</a>
+### Instagram
 
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=dibyajyotipadhiary-ai&label=Profile+Views&color=red&style=for-the-badge"/>
-
-</p>
+https://instagram.com/YOUR_INSTAGRAM_USERNAME
 
 ---
 
 <div align="center">
 
-## "Code. Build. Learn. Repeat."
+## Code. Learn. Build. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,8B0000,FF0000&height=120&section=footer"/>
 
 </div>
