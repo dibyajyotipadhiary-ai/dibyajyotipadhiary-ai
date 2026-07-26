@@ -1,14 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20&text=Dibyajyoti%20Padhiary&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=14,20&text=Dibyajyoti%20Padhiary&fontSize=65&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-I'm a Computer Science student passionate about Software Engineering, Full-Stack Web Development, and Python.
-
-I enjoy building scalable applications, solving real-world problems, learning modern technologies, and continuously improving my development skills through hands-on projects.
+Computer Science student passionate about Software Engineering, Full-Stack Development, and Python. I enjoy building real-world projects, writing clean code, and continuously learning modern technologies. Currently seeking internship opportunities to grow and contribute to impactful software solutions.
 
 ---
 
