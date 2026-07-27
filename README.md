@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=14,20&text=Dibyajyoti%20Padhiary&fontSize=65&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=20,20&text=Dibyajyoti%20Padhiary&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
