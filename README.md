@@ -44,7 +44,7 @@ Computer Science student passionate about Software Engineering, Full-Stack Devel
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,vscode,mysql" />
 
 </p>
 
