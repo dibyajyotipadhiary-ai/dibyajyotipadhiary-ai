@@ -94,6 +94,12 @@ Secure password generator with customizable length, character types, password st
 Modern music player built with HTML, CSS, and JavaScript featuring playlist support, play/pause controls, progress bar, volume control, and responsive design.
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dibyajotipadhiary-ai/dibyajotipadhiary-ai/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 # Currently Learning
 
 - Advanced JavaScript
