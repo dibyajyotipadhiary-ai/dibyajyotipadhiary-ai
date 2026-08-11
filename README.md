@@ -96,9 +96,11 @@ Modern music player built with HTML, CSS, and JavaScript featuring playlist supp
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dibyajotipadhiary-ai/dibyajotipadhiary-ai/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<img src="https://streak-stats.demolab.com?user=dibyajyotipadhiary-ai&theme=dark&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dibyajyotipadhiary-ai/dibyajyotipadhiary-ai/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/dibyajyotipadhiary-ai/dibyajyotipadhiary-ai/output/github-contribution-grid-snake.svg">
+</picture>
 
 # Currently Learning
 
