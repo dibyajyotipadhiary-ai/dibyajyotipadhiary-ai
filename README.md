@@ -75,8 +75,8 @@ Computer Science student passionate about Software Engineering, Full-Stack Devel
 
 # 🚀 Featured Projects
 
-### 🛒 TechStore – E-Commerce Product Catalog
-Responsive E-Commerce website with shopping cart, product search, category filtering, responsive UI, and Local Storage support.
+### 🛒 Timex World – E-Watch shop 
+Responsive E-watch shop website with shopping cart, product search, category filtering, responsive UI, and Local Storage support.
 
 ### 🌦️ Weather Dashboard
 Real-time weather application using JavaScript APIs with live weather updates, location search, and a clean responsive interface.
@@ -90,9 +90,6 @@ Intelligent chatbot developed using Python and Flask with a responsive web inter
 ### 🔐 Password Generator
 Secure password generator with customizable length, character types, password strength indicator, and one-click copy functionality.
 
-### 🎵 Music Player
-Modern music player built with HTML, CSS, and JavaScript featuring playlist support, play/pause controls, progress bar, volume control, and responsive design.
----
 
 ## 🐍 Contribution Snake
 
